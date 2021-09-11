@@ -1,4 +1,4 @@
-# This is `repository` for playing with the programming codes and having fun with finging the method or logic what ever it suits to you after finding solution for it :smile: :blush::+1:
+# This is `repository`(monospacing) for playing with the programming codes and having fun with finging the method or logic what ever it suits to you after finding solution for it :smile: :blush::+1:
 
 ![coding logo](https://th.bing.com/th/id/OIP.wnlFwtQ3viELktFAMnU6zQHaEw?w=307&h=197&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 
