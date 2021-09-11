@@ -1,4 +1,4 @@
-# This is repository for playing with the programming codes and having fun with finging the method or logic what ever it suits to you after finding solution for it :monkey:
+# This is repository for playing with the programming codes and having fun with finging the method or logic what ever it suits to you after finding solution for it :smile: :blush:
 
 In this readme file you'll find relevant information about the different programs present in this repo and as well as the kind of some directions from this repo to other repo's as well if possible.
 
