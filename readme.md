@@ -8,4 +8,4 @@ In this readme file you'll find relevant information about the different program
 
 `Let's start our coding stuff.........`
 
-<img src="imgs/Insiders.png" width="100px" height="100px">
+<img src="imgs/Insiders.png" width="200px" height="200px">
