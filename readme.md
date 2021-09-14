@@ -8,4 +8,4 @@ In this readme file you'll find relevant information about the different program
 
 `Let's start our coding stuff.........`
 
-![logo for our future dream start-up](imgs/Insiders.png =100x100)
+<img src="imgs/Insiders.png" width="100px" height="100px">
