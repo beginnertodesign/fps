@@ -7,3 +7,5 @@ In this readme file you'll find relevant information about the different program
 ## well any way let's welcome coding into your life and playing with it for a better understanding about it and as well as knowing about this cool stuff
 
 `Let's start our coding stuff.........`
+
+![logo for our future dream start-up](imgs/Insiders.png)
